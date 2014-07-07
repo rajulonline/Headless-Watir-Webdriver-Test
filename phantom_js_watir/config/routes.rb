@@ -1,4 +1,5 @@
 PhantomJsWatir::Application.routes.draw do
+    #This is another test for squash
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
